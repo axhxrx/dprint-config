@@ -70,6 +70,8 @@ If you don't like that, well... then you don't need this! 😁
 
 ## Happenings
 
+🎅 2025-01-13: release 0.0.5 with update to <https://github.com/dprint/dprint-plugin-typescript/releases/tag/0.93.3>
+
 🎅 2025-01-13: code moved to public repo
 
 🤖 2025-01-13: repo initialized by Bottie McBotface bot@axhxrx.com
