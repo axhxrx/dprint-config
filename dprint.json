@@ -1,5 +1,3 @@
-// This is my dprint.jsonc
-// There are many like it, but this one is mine.
 {
   "typescript": {
     "whileStatement.bracePosition": "nextLine",
