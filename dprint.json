@@ -9,6 +9,6 @@
     "nextControlFlowPosition": "nextLine"
   },
   "plugins": [
-    "https://plugins.dprint.dev/typescript-0.91.1.wasm"
+    "https://plugins.dprint.dev/typescript-0.93.3.wasm"
   ]
 }
