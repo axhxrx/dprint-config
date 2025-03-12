@@ -6,9 +6,10 @@
     "quoteProps": "asNeeded",
     "bracePosition": "nextLine",
     "preferHanging": true,
-    "nextControlFlowPosition": "nextLine"
+    "nextControlFlowPosition": "nextLine",
+    "importDeclaration.preferSingleLine": false
   },
   "plugins": [
-    "https://plugins.dprint.dev/typescript-0.93.3.wasm"
+    "https://plugins.dprint.dev/typescript-0.94.0.wasm"
   ]
 }
